@@ -40,3 +40,4 @@ git clone https://github.com/yabiyabi127/React-vite-Order-List-Apps
 cd React-vite-Order-List-Apps
 npm install --legacy-peer-deps
 npm run dev
+run on web browser : http://localhost:5173
