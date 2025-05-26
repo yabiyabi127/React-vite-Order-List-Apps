@@ -35,6 +35,7 @@ Klik gambar di bawah untuk melihat versi penuh:
 ## 🧰 Instalasi
 
 ```bash
+Saya menggunakan node v20.19.2
 git clone https://github.com/yabiyabi127/React-vite-Order-List-Apps
 cd React-vite-Order-List-Apps
 npm install --legacy-peer-deps
